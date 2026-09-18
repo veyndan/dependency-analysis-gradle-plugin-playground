@@ -1,0 +1,7 @@
+[versions]
+dependency-analysis = "3.19.2"
+kotlin = "2.4.20"
+
+[plugins]
+dependency-analysis = { id = "com.autonomousapps.dependency-analysis", version.ref = "dependency-analysis" }
+kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
