@@ -11,7 +11,6 @@ kotlin {
     sourceSets {
         commonMain {
             dependencies {
-                api(libs.kotlinx.datetime)
                 api(projects.account.model)
                 api(projects.model)
             }

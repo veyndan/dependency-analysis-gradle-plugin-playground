@@ -12,7 +12,6 @@ kotlin {
         commonMain {
             dependencies {
                 api(projects.account.model)
-                api(libs.kotlinx.datetime)
             }
         }
     }
