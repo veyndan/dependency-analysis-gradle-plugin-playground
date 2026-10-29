@@ -8,4 +8,4 @@ dependencyResolutionManagement {
     }
 }
 
-include("model")
+include(":bar")
