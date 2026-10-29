@@ -14,7 +14,6 @@ kotlin {
         }
 
         commonTest.dependencies {
-            implementation(projects.modelTestBuilder)
         }
     }
 }
