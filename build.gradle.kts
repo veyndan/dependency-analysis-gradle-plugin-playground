@@ -4,7 +4,6 @@ plugins {
 }
 
 dependencyAnalysis {
-    useTypesafeProjectAccessors(true)
     reporting {
         printBuildHealth(true)
     }

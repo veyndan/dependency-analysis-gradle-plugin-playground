@@ -6,8 +6,6 @@ dependencyResolutionManagement {
         mavenCentral()
         google()
     }
-
-    enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 }
 
 include("model")
