@@ -9,4 +9,3 @@ dependencyResolutionManagement {
 }
 
 include("model")
-include("viewmodel")
