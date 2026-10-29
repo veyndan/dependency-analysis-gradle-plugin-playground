@@ -4,6 +4,6 @@ import energy.octopus.octopusenergy.campaign.campaign
 
 class FooTest {
     fun test() {
-        campaign {}
+        campaign()
     }
 }
