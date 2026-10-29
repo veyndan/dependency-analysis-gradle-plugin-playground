@@ -13,4 +13,3 @@ dependencyResolutionManagement {
 include("model")
 include("viewmodel")
 include("model-test-builder")
-include("account:model")

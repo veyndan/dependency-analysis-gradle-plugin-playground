@@ -11,7 +11,6 @@ kotlin {
     sourceSets {
         commonMain {
             dependencies {
-                api(projects.account.model)
                 api(projects.model)
             }
         }
