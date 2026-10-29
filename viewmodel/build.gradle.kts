@@ -12,8 +12,5 @@ kotlin {
         commonMain.dependencies {
             api(projects.model)
         }
-
-        commonTest.dependencies {
-        }
     }
 }
