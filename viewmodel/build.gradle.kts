@@ -7,8 +7,10 @@ kotlin {
     jvm()
 
     sourceSets {
-        commonMain.dependencies {
-            api(projects.model)
+        commonMain {
+            dependencies {
+                api(projects.model)
+            }
         }
     }
 }
